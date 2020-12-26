@@ -1,0 +1,13 @@
+{
+    "name": "alif/tugas10-crud",
+    "authors": [
+        {
+            "name": "irhasalif",
+            "email": "32509276+alifirhas@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "twbs/bootstrap": "^4.5",
+        "components/jquery": "^3.5"
+    }
+}
