@@ -83,6 +83,8 @@ tentu anda bisa menjalankan repository ini di hosting online dengan cara yang se
 
 ## License
 
+MIT
+
 [Back To The Top](#tamoy)
 
 ---
